@@ -14,3 +14,12 @@ After creating an account, users can search for products by category, search by 
 
 ![](https://iili.io/3JiGWcN.png)
 
+![](https://iili.io/3JimoMX.png)
+
+![](https://iili.io/3Js9mJa.png)
+
+![](https://iili.io/3Js9mJa.png)
+
+![](https://iili.io/3JimxPn.png)
+
+![](https://iili.io/3Jimnnt.png)
