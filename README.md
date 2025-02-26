@@ -18,7 +18,7 @@ After creating an account, users can search for products by category, search by 
 
 ![](https://iili.io/3Js9mJa.png)
 
-After adding items to the cart, you will need to fill in your personal information and shipping address. You can also enter promo codes to receive a discount. Currently, the website only supports COD (Cash on Delivery) as the payment method.
+After adding items to the cart, you will need to fill in your personal information and shipping address. You can also enter promo codes to receive a discount. Currently, the website only supports COD (Cash on Delivery) as the payment method. When you complete your order, a successful order status will be displayed along with a confirmation email from TechZ. You can check the status of your recent order by going to the Account section → Order Management.
 
 ![](https://iili.io/3Js9mJa.png)
 
