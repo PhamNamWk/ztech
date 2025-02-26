@@ -27,5 +27,6 @@ After adding items to the cart, you will need to fill in your personal informati
 ![](https://iili.io/3Jimnnt.png)
 
 ## Admin Page
+In the admin panel, we manage user information, order details, banners, comments, and more. On the dashboard, there are statistics on the number of orders, sales revenue, and a revenue chart displaying daily statistics.
 
 ![](https://iili.io/3JsPoqx.png)
