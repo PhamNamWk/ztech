@@ -18,6 +18,8 @@ After creating an account, users can search for products by category, search by 
 
 ![](https://iili.io/3Js9mJa.png)
 
+After adding items to the cart, you will need to fill in your personal information and shipping address. You can also enter promo codes to receive a discount. Currently, the website only supports COD (Cash on Delivery) as the payment method.
+
 ![](https://iili.io/3Js9mJa.png)
 
 ![](https://iili.io/3JimxPn.png)
