@@ -25,3 +25,7 @@ After adding items to the cart, you will need to fill in your personal informati
 ![](https://iili.io/3JimxPn.png)
 
 ![](https://iili.io/3Jimnnt.png)
+
+## Admin Page
+
+![](https://iili.io/3JsPoqx.png)
