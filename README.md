@@ -6,5 +6,11 @@ TechZ is an electronics e-commerce website developed by me and a friend. The pro
 ## Features
 ### Register and login 
 To access the extended features of the website, we need to register a user account. After that, log in to the account.
+
 ![](https://iili.io/3JiTZ2j.png)
+
+### Order
+After creating an account, users can search for products by category, search by name, and filter by price. Once they have selected their desired product, they can add it to the cart.
+
+![](https://iili.io/3JiGWcN.png)
 
